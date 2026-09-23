@@ -1,0 +1,30 @@
+[
+    {
+        "item": "COFFEE",
+        "price": 35.8
+    },
+    {
+        "item": "RICE",
+        "price": 25.0
+    },
+    {
+        "item": "SUGAR",
+        "price": 4.5
+    },
+    {
+        "item": "MILK",
+        "price": 5.5
+    },
+    {
+        "item": "POTATO",
+        "price": 5.25
+    },
+    {
+        "item": "COFFEE",
+        "price": 35.8
+    },
+    {
+        "item": "LEMON",
+        "price": 5.3
+    }
+]
