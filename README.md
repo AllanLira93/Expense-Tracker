@@ -1,1 +1,1 @@
-In this project, we can add, remove, and view expenses, as well as calculate the total, saving the data to a JSON file.
+In this project, we can add, remove, view, and sum up total expenses, saving the data to a JSON file. One file is object-oriented, while the other is not.
